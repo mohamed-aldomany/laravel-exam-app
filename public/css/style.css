@@ -1,0 +1,30 @@
+.login-text{
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+.header-desciption {
+    height: 430px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.header-desciption .details{
+    margin-top: 107px;
+}
+
+.userForm{
+    margin-left: 385px;
+}
+
+
+.userForm form{
+    background-color: antiquewhite;
+    color: black;
+    padding: 28px;
+    border-radius: 41px;
+}
+    
